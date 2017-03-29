@@ -7,4 +7,4 @@ Doing on some 3D artwork with [Blender render](https://www.blender.org/features/
 I had the idea to combine these two. In, Bender using Blender to render #usetheplatform. 
 And keep it for a while as my desktop wallpaper.
 
-![Bender using the platform][https://github.com/itsMeBender/usingThePlatform/blob/master/Render/Bender_usingThePlatform.png]
+![Bender using the platform](https://github.com/itsMeBender/usingThePlatform/blob/master/Render/Bender_usingThePlatform.png)
